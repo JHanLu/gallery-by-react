@@ -8,4 +8,4 @@ $> cd gallery-by-react
 $> npm install
 $> npm start
 ```
-Then open [loaclhost:8000](loaclhost:8000) on your broswer.
+Then open [loaclhost:8000](http://localhost:8000/) on your broswer.
